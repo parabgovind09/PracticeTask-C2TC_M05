@@ -63,5 +63,20 @@ public class JaggedArray_00 {
 	    System.out.println("\n");
 	    }
 	}
-	
 }
+
+/*
+ * 
+Output:- 
+
+Contents of 2D Jagged Array are: 
+
+India	China	Iran	
+
+Bhutan	Nepal	Italy	Macao	Iraq	Yemen	
+
+Japan	France	Qatar	Syria	
+
+Oman	
+
+*/
